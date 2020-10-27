@@ -5,6 +5,10 @@ public class MyClass {
     MyClass myObj = new MyClass();
     System.out.println("-----");
     System.out.println(myObj.x);
-    System.out.println(";)");
+    System.out.println("::-)");
+    for(int i=0;i<4;i++)
+    {
+	 System.out.println(i);
+    }
   }
 }
