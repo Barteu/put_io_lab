@@ -12,6 +12,7 @@ public class MyClass {
     //loop
     for(int i=0;i<4;i++)
     {
+	    /// ale fajny princik
 	 System.out.println(i);
     }
   }
