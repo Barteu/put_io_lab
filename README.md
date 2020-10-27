@@ -3,3 +3,4 @@ Bartłomiej Szymkowiak
 27.10.2020
 :)
 :/
+:(
