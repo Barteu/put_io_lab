@@ -1,10 +1,12 @@
 // comment 1
 // comment 2
 public class MyClass {
-  int x = 25;
-
+  	// variable x
+	int x = 25;
+	
   public static void main(String[] args) {
     MyClass myObj = new MyClass();
+    //prints
     System.out.println("-----");
     System.out.println(myObj.x);
     System.out.println("::-)");
