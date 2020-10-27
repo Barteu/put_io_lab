@@ -1,6 +1,6 @@
 # put_io_lab
 Bartłomiej Szymkowiak
-28.10.2020
+26.10.2020
 :)
 :/
 :(
