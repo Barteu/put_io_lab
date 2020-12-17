@@ -22,6 +22,7 @@ import java.util.List;
 
 public class ExpenseManagerTest {
 
+    /*
     private ExpenseManager manager = null;
 
 
@@ -35,7 +36,8 @@ public class ExpenseManagerTest {
     public void tearDown() throws Exception{
         manager = null;
     }
-
+    */
+        
     @Test
     public void testCalculateTotal() {
 
