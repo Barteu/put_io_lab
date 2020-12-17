@@ -18,6 +18,7 @@ import java.util.Collections;
 
 public class ExpenseRepositoryTest {
 
+    /*
     private ExpenseRepository repo = null;
     private MyDatabase database = null;
 
@@ -33,7 +34,7 @@ public class ExpenseRepositoryTest {
         repo=null;
 
     }
-
+    */
 
     @Test
     public void testloadExpenses() {
