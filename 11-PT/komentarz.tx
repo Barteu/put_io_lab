@@ -1,0 +1,15 @@
+zadanie1.2
+
+Metoda averageSpendings() licząca średnie wydatki była wywoływana dla każdego klienta osobno.
+
+Poprawiono kod poprzez jedno wyliczenie średnich wydaków na początku meotdy get, zapisanie go i używanie
+zamiast wywoływania averageSpendings() za każdym razem:
+
+double avgSpendings =  averageSpendings();
+
+Średni czas odpowiedzi zmniejszył się z 3799 do 452.
+
+
+zadanie 2
+
+Wystarczyło dodać jedną drukarkę.
