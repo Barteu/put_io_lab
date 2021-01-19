@@ -11,5 +11,4 @@ double avgSpendings =  averageSpendings();
 
 
 zadanie 2
-
-Wystarczyło dodać jedną drukarkę.
+Początkowo osiągnięta przepustowość to 6,8 na sekundę po dodaniu jednej drukarki jest ona już na wynmaganym poziomie.
